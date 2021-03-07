@@ -1,11 +1,11 @@
 简洁，高效，实用的前端开发小工具！
 
-## 使用:
-```
 ## 安装
+```
 npm install auto-utils -s
-
+```
 ## 使用
+```
 import { mock_data } from 'auto-utils';
 
 mock_data(5, ()=> 'auto')
