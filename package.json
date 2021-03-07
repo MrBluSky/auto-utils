@@ -1,0 +1,12 @@
+{
+  "name": "auto-utils",
+  "version": "0.1.0",
+  "description": "简洁，高效，实用的前端开发小工具！",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["javascript", "es6", "es2015", "utils"],
+  "author": "",
+  "license": "ISC"
+}
